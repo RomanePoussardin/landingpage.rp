@@ -21,6 +21,7 @@ a{
 	justify-content: center;
 	align-items: center;
 	text-shadow: 0px 0px 0px white;
+	background-attachment: fixed;
 }
 
 .card{
@@ -30,6 +31,73 @@ a{
 	border-radius: 0px;
 	box-shadow: 0px 0px 0px 0px rgba(0, 0, 0.2);
 }
+
+#card1 {
+justify-content: space-around;
+filter: contrast(100%);
+}
+
+
+#card1:hover {
+filter: contrast(80%);
+}
+
+#card2 {
+justify-content: space-around;
+filter: contrast(100%);
+}
+
+
+#card2:hover {
+filter: contrast(80%);
+}
+
+
+#card3 {
+justify-content: space-around;
+filter: contrast(100%);
+}
+
+
+#card3:hover {
+filter: contrast(80%);
+}
+
+
+#card4 {
+justify-content: space-around;
+filter: contrast(100%);
+}
+
+
+#card4:hover {
+filter: contrast(80%);
+}
+
+#card5 {
+justify-content: space-around;
+filter: contrast(100%);
+}
+
+
+#card5:hover {
+filter: contrast(80%);
+}
+
+
+#card6 {
+justify-content: space-around;
+filter: contrast(100%);
+}
+
+
+#card6:hover {
+filter: contrast(80%);
+}
+
+
+
+
 
 .cards{
 	display: grid;
